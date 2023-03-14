@@ -8,10 +8,6 @@
 
 
 
-/* ===================================
-    2. Global CSS
-====================================== */
-
 body {
     font-family: 'Rubik', sans-serif;
     font-size: 18px;
@@ -751,9 +747,6 @@ a.button-dot:hover:before {
 }
 
 
-/* ===================================
-    3. Home Section CSS
-====================================== */
 
 #home {    
     background-image: url(images/hero_image_01.jpg);
@@ -777,9 +770,6 @@ h1.big-text {
 }
 
 
-/* ===================================
-    4. Services Section CSS
-====================================== */
 
 #services {
     background-image: url(images/on_black_left.png);
@@ -822,9 +812,6 @@ h1.big-text {
 }
 
 
-/* ===================================
-    5. About Section CSS
-====================================== */
 
 #about {
     background-image: url(images/on_white_right.png);
@@ -835,9 +822,6 @@ h1.big-text {
 }
 
 
-/* ===================================
-    6. Clients Section CSS
-====================================== */
 
 #clients {
     background-image: url(images/quote_image_01.jpg);
@@ -847,9 +831,6 @@ h1.big-text {
 }
 
 
-/* ===================================
-    7. News Section CSS
-====================================== */
 
 #news {
     background-image: url(images/on_white_left.png);
@@ -920,9 +901,6 @@ h1.big-text {
 }
 
 
-/* ===================================
-    8. Portfolio Section CSS
-====================================== */
 
 .grid {
     width: 100%;
@@ -1088,9 +1066,6 @@ h1.big-text {
 }
 
 
-/* ===================================
-    8.1 Single Portfolio
-====================================== */
 
 .portfolio-item-wrapper {
     margin-top: 100px;
@@ -1098,9 +1073,6 @@ h1.big-text {
 }
 
 
-/* ===================================
-    9. Pricing Section CSS
-====================================== */
 
 #pricing {
     background-image: url(images/on_white_right.png);
@@ -1207,9 +1179,6 @@ h1.big-text {
 }
 
 
-/* ===================================
-    10. Team Section CSS
-====================================== */
 
 #team {
     background-image: url(images/on_black_left.png);
@@ -1340,9 +1309,6 @@ h1.big-text {
 }
 
 
-/* ===================================
-    12. Milestones Section CSS
-====================================== */
 
 #millstones {
     background-image: url(images/on_black_left.png);
@@ -1406,9 +1372,6 @@ p.milestone-num {
 
 
 
-/* ===================================
-    13. Blog Page CSS
-====================================== */
 
 body.blog {
     background-color: #fff;
@@ -1605,9 +1568,6 @@ body.blog {
 
 
 
-/* ===================================
-    14. Single Post CSS
-====================================== */
 
 .single .site-content {
     background-color: #fff;
@@ -1751,9 +1711,6 @@ body.blog {
 }
 
 
-/* ===================================
-   14.1 Tipper CSS
-====================================== */
 
 .tipper {
     width: 100%;
@@ -1801,9 +1758,6 @@ body.blog {
 }
 
 
-/* ===================================
-    15. Contact Section CSS
-====================================== */
 
 .contact-form {
     max-width: 100%;
@@ -1903,9 +1857,6 @@ body.blog {
 }
 
 
-/* ===================================
-    16. Footer CSS
-====================================== */
 
 footer a {
     color: #fff;
@@ -2005,9 +1956,6 @@ footer .footer-social-divider:before {
 
 
 
-/* ===================================
-    17. Responsive CSS
-====================================== */
 
 
 @media screen and (max-width: 1600px) { 
