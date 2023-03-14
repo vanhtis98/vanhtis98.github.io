@@ -770,7 +770,7 @@ h1.big-text {
 
 #services {
     background-image: url(images/on_black_left.png);
-    background-color: #000000;
+    background-color: #0a0a0a;
     background-position: left bottom;
     background-repeat: no-repeat;
     background-size: auto;
@@ -796,7 +796,7 @@ h1.big-text {
 .service-num {
     font-size: 264px;
     font-weight: 700;
-    color: #000000;
+    color: #0a0a0a;
     text-shadow: -1px 0 #b3b3b3, 
         0 1px #b3b3b3, 
         1px 0 #b3b3b3, 
@@ -1179,7 +1179,7 @@ h1.big-text {
 
 #team {
     background-image: url(images/on_black_left.png);
-    background-color: #000000;
+    background-color: #0a0a0a;
     background-position: left center;
     background-repeat: no-repeat;
     background-size: auto;
@@ -1309,7 +1309,7 @@ h1.big-text {
 
 #millstones {
     background-image: url(images/on_black_left.png);
-    background-color: #000000;
+    background-color: #0a0a0a;
     background-position: left bottom;
     background-repeat: no-repeat;
     background-size: auto;
@@ -1360,7 +1360,7 @@ p.milestone-num {
     font-weight: 700;
     position: relative;
     margin-bottom: 0;
-    color: #000000;
+    color: #0a0a0a;
     text-shadow: -1px 0 #b3b3b3, 
         0 1px #b3b3b3, 
         1px 0 #b3b3b3, 
@@ -1516,7 +1516,7 @@ body.blog {
 }
 
 .blog-item-holder .cat-links ul a {
-    color: #000000 !important;
+    color: #0a0a0a !important;
     transition: .2s;
 }
 
@@ -2156,7 +2156,7 @@ footer .footer-social-divider:before {
     .menu-holder {
         position: fixed;
         text-align: center;
-        background-color: #000000;
+        background-color: #0a0a0a;
         right: -100%;
         top: 77px;
         transition: right .3s ease;
