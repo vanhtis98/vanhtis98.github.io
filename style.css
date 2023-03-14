@@ -81,9 +81,6 @@ body pre {
 }
 
 
-/* ===================================
-    2.1 Global Header Logo/Menu CSS
-====================================== */
 
 .header-holder {
     z-index: 99 !important;
@@ -220,7 +217,7 @@ body .sm-clean li.active a,
 body .sm-clean li.current-page-ancestor > a, 
 body .sm-clean li.current_page_ancestor > a, 
 body .sm-clean li.current_page_item > a {
-    color: #47ea4e;
+    color: #eacc47;
 }
 
 .sm-clean li {
@@ -305,7 +302,7 @@ body .sm-clean li.current_page_item > a {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: #47ea4e;
+    background-color: #eacc47;
     width: 285px;
     display: inline-block;
     z-index: 98;
@@ -318,7 +315,7 @@ body .sm-clean li.current_page_item > a {
     height: 0;
     border-style: solid;
     border-width: 130px 60px 0 0;
-    border-color: #47ea4e transparent transparent transparent;
+    border-color: #eacc47 transparent transparent transparent;
     position: absolute;
     top: 0;
     right: 0;
